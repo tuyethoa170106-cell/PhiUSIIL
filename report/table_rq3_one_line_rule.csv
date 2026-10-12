@@ -1,0 +1,7 @@
+,value
+ROC_AUC_of_similarity_index_alone,0.9960903302825308
+legitimate_with_index_100_pct,100.0
+rule_accuracy,0.9896121000977185
+rule_caught,0.9756764822920811
+rule_false_alarm_rate,0.0
+best_model_accuracy_all_features,1.0

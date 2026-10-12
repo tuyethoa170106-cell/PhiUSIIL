@@ -1,0 +1,6 @@
+,0
+best_model,XGBoost
+ROC_AUC,1.0
+PR_AUC,1.0
+spread,0.0003666127958859011
+verdict,"TOO EASY: every model is near the ceiling, so the comparison says little; explain why the task is easy or use a harder protocol (RQ3)"

@@ -1,0 +1,7 @@
+{
+  "file": "data/processed/phishing.parquet",
+  "rows": 235370,
+  "columns": 58,
+  "feat_rows": 235370,
+  "md5": "3840025f21c134bebe77f5840e79186e"
+}

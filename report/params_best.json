@@ -1,0 +1,27 @@
+{
+  "best_address_only_model": "Linear SVM",
+  "false_alarm_budget": 0.01,
+  "params": {
+    "memory": "None",
+    "steps": "[('standardscaler', StandardScaler()), ('linearsvc', LinearSVC(random_state=0))]",
+    "transform_input": "None",
+    "verbose": "False",
+    "standardscaler": "StandardScaler()",
+    "linearsvc": "LinearSVC(random_state=0)",
+    "standardscaler__copy": "True",
+    "standardscaler__with_mean": "True",
+    "standardscaler__with_std": "True",
+    "linearsvc__C": "1.0",
+    "linearsvc__class_weight": "None",
+    "linearsvc__dual": "auto",
+    "linearsvc__fit_intercept": "True",
+    "linearsvc__intercept_scaling": "1",
+    "linearsvc__loss": "squared_hinge",
+    "linearsvc__max_iter": "1000",
+    "linearsvc__multi_class": "ovr",
+    "linearsvc__penalty": "l2",
+    "linearsvc__random_state": "0",
+    "linearsvc__tol": "0.0001",
+    "linearsvc__verbose": "0"
+  }
+}
