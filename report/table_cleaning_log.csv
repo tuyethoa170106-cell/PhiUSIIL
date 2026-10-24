@@ -1,9 +1,0 @@
-step,value
-raw rows,235795
-missing cells in numeric columns,0
-unique addresses,235370
-addresses whose domain appears more than once,20535
-address features,21
-page features,28
-phishing addresses,100520
-top-level domains,695
